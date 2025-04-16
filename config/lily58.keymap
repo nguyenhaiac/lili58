@@ -60,7 +60,7 @@
             bindings = <
 &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                                &trans           &trans           &trans        &trans            &trans     &studio_unlock
 &kp TAB     &kp ASTERISK  &kp N7        &kp N8        &kp N9        &kp PLUS                                    &kp LEFT_BRACE   &kp PRINTSCREEN  &kp UP_ARROW  &kp K_CALCULATOR  &kp N0     &trans
-&kp F1      &kp SLASH     &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp MINUS                                   &kp RIGHT_BRACE  &kp LEFT         &kp DOWN      &kp UP            &kp DEL    &trans
+&kp F1      &kp SLASH     &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp MINUS                                   &kp RIGHT_BRACE  &kp LEFT         &kp DOWN      &kp RIGHT         &kp DEL    &trans
 &kp F7      &kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp RET       &kp C_BRI_UP    &kp C_BRI_DN  &kp LC(A)        &kp LC(C)        &kp LC(X)     &kp LC(V)         &kp LC(Z)  &kp BSLH
                                         &trans        &trans        &trans        &trans          &trans        &trans           &trans           &trans
             >;
