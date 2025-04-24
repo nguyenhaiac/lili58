@@ -32,5 +32,5 @@ include:
     artifact-name: lily58_right_with_studio
 
 include: <dt-bindings/zmk/pointing.h>
-define: ZMK_POINTING_DEFAULT_MOVE_VAL 1500  // default: 600
-define: ZMK_POINTING_DEFAULT_SCRL_VAL 20    // default: 10
+define: ZMK_POINTING_DEFAULT_MOVE_VAL 1500  # default: 600
+define: ZMK_POINTING_DEFAULT_SCRL_VAL 20    # default: 10
