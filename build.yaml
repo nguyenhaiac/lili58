@@ -26,3 +26,6 @@ include:
     artifact-name: lily58_left_with_studio
   - board: nice_nano_v2
     shield: lily58_right
+include: <dt-bindings/zmk/pointing.h>
+define: ZMK_POINTING_DEFAULT_MOVE_VAL 1500  // default: 600
+define: ZMK_POINTING_DEFAULT_SCRL_VAL 20    // default: 10
