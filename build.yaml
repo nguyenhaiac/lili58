@@ -30,5 +30,3 @@ builds:
     artifact-name: lily58_right_with_studio
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     snippet: studio-rpc-usb-uart
-
-config:
